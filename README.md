@@ -84,7 +84,7 @@
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fastbeetech&theme=tokyonight)
 ---
 
 ## To create your own version of this wonderful feature by Github, follow this simple steps:
