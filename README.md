@@ -70,6 +70,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats-fastbeetech.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 </details>
