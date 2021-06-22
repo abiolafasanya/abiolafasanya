@@ -54,7 +54,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@fastbeetech)
+➡️ [more blog posts...](https://medium.com/@harbiola78)
 
 ---
 
