@@ -4,7 +4,7 @@
 
 <h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
+<img align='right' src="https://image.freepik.com/free-vector/boys-different-color-background_1308-36865.jpg" width='200"'>
 
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=Twitter&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fharbiola78)
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fharbiola78)
