@@ -64,6 +64,12 @@
   <summary>:zap: Recent Github Activity</summary>
   
     <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/fastbeetech/fastbeetech/pull/7) in [fastbeetech/fastbeetech](https://github.com/fastbeetech/fastbeetech)
+2. 💪 Opened PR [#7](https://github.com/fastbeetech/fastbeetech/pull/7) in [fastbeetech/fastbeetech](https://github.com/fastbeetech/fastbeetech)
+3. 🎉 Merged PR [#6](https://github.com/fastbeetech/fastbeetech/pull/6) in [fastbeetech/fastbeetech](https://github.com/fastbeetech/fastbeetech)
+4. 💪 Opened PR [#6](https://github.com/fastbeetech/fastbeetech/pull/6) in [fastbeetech/fastbeetech](https://github.com/fastbeetech/fastbeetech)
+5. 🎉 Merged PR [#5](https://github.com/fastbeetech/fastbeetech/pull/5) in [fastbeetech/fastbeetech](https://github.com/fastbeetech/fastbeetech)
+<!--END_SECTION:activity-->
  
 
 </details>
