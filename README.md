@@ -6,9 +6,12 @@
 
 <img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@harbiola78-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harbiola78)](https://twitter.com/harbiola78) [![Linkedin Badge](https://img.shields.io/badge/-abiola-fasanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ng.linkedin.com/in/abiola-fasanya-66a095129)](https://ng.linkedin.com/in/abiola-fasanya-66a095129) 
+[![Twitter Badge](https://img.shields.io/badge/-@harbiola78-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harbiola78)](https://twitter.com/harbiola78)
+[![Linkedin Badge](https://img.shields.io/badge/-abiola-fasanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiola-fasanya-66a095129)](https://www.linkedin.com/in/abiola-fasanya-66a095129) 
 [![Gmail Badge](https://img.shields.io/badge/-harbiola78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harbiola78@gmail.com)]
-[![Polywork Badge](https://img.shields.io/badge/-https://www.polywork.com/harbiola-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.polywork.com/harbiola)]
+(mailto:harbiola78@gmail.com)
+[![Polywork Badge](https://img.shields.io/badge/-harbiola-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.polywork.com/harbiola)]
+(https://www.polywork.com/harbiola)
 
 
 ---
