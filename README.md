@@ -41,8 +41,7 @@
 - 😄 Pronouns: He/Him :man:
 - 
 <!-- - Presentations -->
-- Portfolio: [Portfolio](https://github.com/fastbeetech/portfolio)
-
+- Portfolio: [Portfolio](https://fastbeetech.github.io/portfolio/dist/index.html)
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
 
