@@ -7,16 +7,15 @@
 <img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
 
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=Twitter&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fharbiola78)
-![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fharbiola78)
-![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=abiola%20fasanya&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabiola-fasanya-66a095129%2F%3ForiginalSubdomain%3Dng)
-![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=abiola%20fasanya&logo=gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fharbiola78)
+![Facebook URL](https://img.shields.io/facebook/url?color=%231DA1F2&label=harbiola78&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fharbiola78)
+![LinkedIn URL](https://img.shields.io/linkedin/url?color=%231DA1F2&label=abiola%20fasanya&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabiola-fasanya-66a095129%2F%3ForiginalSubdomain%3Dng)
+![Gmail URL](https://img.shields.io/gmail/url?color=%231DA1F2&label=abiola%20fasanya&logo=gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fharbiola78)
 
 
 
 ---
 
 ## 👯 Communities
-- Backenders 
 - GDG
 
 ---
@@ -25,6 +24,7 @@
 - Movie Application with TMDB Api
 - Zuri Project
 - University Help Api
+- Barter Right
 
 ---
 
@@ -89,13 +89,13 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind Css" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <be />
