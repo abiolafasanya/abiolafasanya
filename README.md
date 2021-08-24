@@ -33,6 +33,8 @@
 - Laravel Livewire
 - TailwindCss
 - Alphine Js
+- Golang
+- Vue
 
 ---
 
