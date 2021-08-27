@@ -64,7 +64,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/zurichat/zc_core/issues/45) in [zurichat/zc_core](https://github.com/zurichat/zc_core)
+1. ❗️ Opened issue [#61](https://github.com/zurichat/zc_core/issues/61) in [zurichat/zc_core](https://github.com/zurichat/zc_core)
 <!--END_SECTION:activity-->
 
 </details>
