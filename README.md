@@ -64,7 +64,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/fastbeetech/zc_core/pull/1) in [fastbeetech/zc_core](https://github.com/fastbeetech/zc_core)
+1. 🎉 Merged PR [#2](https://github.com/fastbeetech/zc_core/pull/2) in [fastbeetech/zc_core](https://github.com/fastbeetech/zc_core)
 <!--END_SECTION:activity-->
 
 </details>
