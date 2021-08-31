@@ -64,7 +64,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/ColeDrain/zc_core/pull/2) in [ColeDrain/zc_core](https://github.com/ColeDrain/zc_core)
+1. ❗️ Opened issue [#162](https://github.com/zurichat/zc_core/issues/162) in [zurichat/zc_core](https://github.com/zurichat/zc_core)
 <!--END_SECTION:activity-->
 
 </details>
