@@ -6,7 +6,7 @@
 
 <img align='right' src="https://github.com/fastbeetech/fastbeetech/blob/main/abiola.jpg" width="150">
 
-![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=abiola_fasanya&logo=Twitter&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fabiola_fasanya)
+![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=Twitter&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fharbiola78)
 ![Facebook URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fharbiola78)
 ![LinkedIn URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=abiola%20fasanya&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabiola-fasanya-66a095129%2F%3ForiginalSubdomain%3Dng)
 ![Gmail URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=abiola%20fasanya&logo=gmail&style=social&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fharbiola78)
