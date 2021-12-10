@@ -64,7 +64,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#451](https://github.com/zurichat/zc_core/pull/451) in [zurichat/zc_core](https://github.com/zurichat/zc_core)
 <!--END_SECTION:activity-->
 
 </details>
