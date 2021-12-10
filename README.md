@@ -40,8 +40,7 @@
 
 ## 💬 Details
 - Name: Abiola Hezekiah Fasanya
-- 😄 Pronouns: He/Him :man:
-- 
+- 😄 Pronouns: He/Him
 <!-- - Presentations -->
 - Portfolio: [Portfolio](https://fastbeetech.github.io/portfolio/dist/index.html)
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
@@ -64,6 +63,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
