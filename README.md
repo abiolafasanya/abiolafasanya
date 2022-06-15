@@ -18,6 +18,8 @@
 ## 👯 Communities
 - GDG
 - KodeCamp
+- Zuri
+
 
 ---
 
@@ -26,6 +28,9 @@
 - Zuri Project
 - University Help Api
 - Barter Right
+- Decentralized Library
+- Loan App
+
 
 ---
 
@@ -36,7 +41,10 @@
 - Alphine Js
 - Golang
 - Vue
-
+- Solidity
+- Ether.js
+- Web3.js
+- Moralis
 ---
 
 ## 💬 Details
@@ -77,7 +85,7 @@
 
 </details>
 
-
+![](https://komarev.com/ghpvc/?username=fastbeetech&style=plastic)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fastbeetech&theme=tokyonight)
 ---
