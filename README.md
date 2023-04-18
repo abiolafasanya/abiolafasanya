@@ -25,20 +25,14 @@
 
 ## 🔭 I’m currently working on
 - Movie Application with TMDB Api
-- Zuri Project
 - University Help Api
 - Barter Right
 - Decentralized Library
 - Loan App
 
-
 ---
 
 ## 🌱 I’m currently learning
-- React
-- Laravel Livewire
-- TailwindCss
-- Alphine Js
 - Golang
 - Vue
 - Solidity
@@ -63,7 +57,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@harbiola78)
+➡️ [more blog posts...](https://harbiola.hashnode.dev/)
 
 ---
 
