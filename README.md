@@ -4,7 +4,7 @@
 
 <h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://github.com/fastbeetech/fastbeetech/blob/main/abiola.jpg" width="150">
+<img align='right' src="https://github.com/dev-harbiola/dev-harbiola/blob/main/abiola.jpg" width="150">
 
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=Twitter&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fharbiola78)
 ![Facebook URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=harbiola78&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fharbiola78)
@@ -45,7 +45,7 @@
 - Name: Abiola Hezekiah Fasanya
 - 😄 Pronouns: He/Him
 <!-- - Presentations -->
-- Portfolio: [Portfolio]([https://harbiola.netlify](http://harbiola.netlify.com/))
+- Portfolio: [Portfolio]([Bio Link](https://harbiola.bio.link/))
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
 
@@ -79,9 +79,9 @@
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=fastbeetech&style=plastic)
+![](https://komarev.com/ghpvc/?username=dev-harbiola&style=plastic)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fastbeetech&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-harbiola&theme=tokyonight)
 ---
 <br />
 
@@ -99,27 +99,3 @@
 
 <br />
 
-## To create your own version of this wonderful feature by Github, follow this simple steps:
-
-1. You can either fork or clone the repo
-2. Create a new repository
-3. Make the name of the repository your github username, fo example my username is `fastbeetech` so my repository name will be `fastbeetech`.
-4. After this, a README.md file is automatically created, you can either clone this new repo or edit on your browser
-5. Paste what you forked/cloned from my repository and edit to your own style.
-5. To add more style to your README, you can watch this video by [codeSTACKr](https://www.youtube.com/watch?v=n6d4KHSKqGk) for the Spotify and also the blogpost functionality
-
-
-<!--
-**fastbeetech/fastbeetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
