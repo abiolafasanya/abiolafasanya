@@ -45,7 +45,7 @@
 - Name: Abiola Hezekiah Fasanya
 - 😄 Pronouns: He/Him
 <!-- - Presentations -->
-- Portfolio: [Portfolio]([Bio Link](https://harbiola.bio.link/))
+- Portfolio: [Portfolio]([Bio Link](https://habiola.bio.link/))
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
 
