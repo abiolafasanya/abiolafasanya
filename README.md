@@ -48,6 +48,7 @@
 - Portfolio: [Portfolio]([Bio Link](https://habiola.bio.link/))
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
+<a href="https://app.daily.dev/abiolafasanya"><img src="https://api.daily.dev/devcards/1f1fc88233fd4ee3ae8522b4013ec13c.png?r=dt8" width="400" alt="Abiola Fasanya's Dev Card"/></a>
 
 ---
 
