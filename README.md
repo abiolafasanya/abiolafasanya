@@ -80,9 +80,9 @@
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=dev-harbiola&style=plastic)
+![](https://komarev.com/ghpvc/?username=abiolafasanya&style=plastic)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-harbiola&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiolafasanya&theme=tokyonight)
 ---
 <br />
 
