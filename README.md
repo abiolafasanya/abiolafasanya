@@ -33,13 +33,10 @@
 ---
 
 ## 🌱 I’m currently learning
-- Golang
-- Vue
 - Solidity
 - Ether.js
 - Web3.js
 - Moralis
----
 
 ## 💬 Details
 - Name: Abiola Hezekiah Fasanya
